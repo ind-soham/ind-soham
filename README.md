@@ -14,14 +14,8 @@ I like understanding how things work under the hood. I started with Arduino to s
 
 **Stack:** `C++` · `Python` · `JavaScript` · `HTML/CSS` · `Arduino` · `Git`
 
-## `> projects`
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://ind-soham.github.io/bluetooth-robot.html"><img src="card-rover.svg" alt="Bluetooth Rover"></a></td>
-    <td width="50%"><a href="https://ind-soham.github.io/smart-city.html"><img src="card-smartcity.svg" alt="Smart City Prototype"></a></td>
-  </tr>
-</table>
+## `> projects
+<table> <tr> <td width="50%"><a href="https://ind-soham.github.io/bluetooth-robot.html"><img src="assets/card-rover.svg" alt="Bluetooth Rover" width="400"></a></td> <td width="50%"><a href="https://ind-soham.github.io/smart-city.html"><img src="assets/card-smartcity.svg" alt="Smart City Prototype" width="400"></a></td> </tr> </table>
 
 ## `> connect`
 
