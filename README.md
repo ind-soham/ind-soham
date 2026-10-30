@@ -1,4 +1,4 @@
-<img src="assets/hero.svg" alt="Soham Dalvi: CS student, builder, problem solver" width="100%">
+<img src="hero.svg" alt="Soham Dalvi: CS student, builder, problem solver" width="100%">
 
 <div align="center">
 
