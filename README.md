@@ -8,7 +8,7 @@
 
 </div>
 
-<img src="assets/divider.svg" alt="" width="100%">
+<img src="divider.svg" alt="" width="100%">
 
 ## `> about`
 
@@ -31,18 +31,18 @@ Most of what I build sits where hardware meets software: sensors, serial communi
 | **Hardware** | `Arduino` · `Embedded systems` · `Sensors` |
 | **Tools** | `Git` · `GitHub` · `VS Code` |
 
-<img src="assets/divider.svg" alt="" width="100%">
+<img src="divider.svg" alt="" width="100%">
 
 ## `> projects`
 
 <table>
   <tr>
-    <td width="50%"><a href="https://github.com/ind-soham/ZyDeck"><img src="assets/card-zydeck.svg" alt="ZyDeck, a programmable macropad"></a></td>
-    <td width="50%"><a href="https://ind-soham.github.io/bluetooth-robot.html"><img src="assets/card-rover.svg" alt="Bluetooth Rover"></a></td>
+    <td width="50%"><a href="https://github.com/ind-soham/ZyDeck"><img src="card-zydeck.svg" alt="ZyDeck, a programmable macropad"></a></td>
+    <td width="50%"><a href="https://ind-soham.github.io/bluetooth-robot.html"><img src="card-rover.svg" alt="Bluetooth Rover"></a></td>
   </tr>
   <tr>
-    <td width="50%"><a href="https://vjcevents.tech"><img src="assets/card-vjc.svg" alt="VJC Event Platform"></a></td>
-    <td width="50%"><a href="https://ind-soham.github.io/smart-city.html"><img src="assets/card-smartcity.svg" alt="Smart City Prototype"></a></td>
+    <td width="50%"><a href="https://vjcevents.tech"><img src="card-vjc.svg" alt="VJC Event Platform"></a></td>
+    <td width="50%"><a href="https://ind-soham.github.io/smart-city.html"><img src="card-smartcity.svg" alt="Smart City Prototype"></a></td>
   </tr>
 </table>
 
@@ -60,7 +60,7 @@ Most of what I build sits where hardware meets software: sensors, serial communi
          and fast load times on mobile networks.
 ```
 
-<img src="assets/divider.svg" alt="" width="100%">
+<img src="divider.svg" alt="" width="100%">
 
 ## `> activity`
 
